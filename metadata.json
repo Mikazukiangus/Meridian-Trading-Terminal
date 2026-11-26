@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Terminal",
+  "description": "High-density multi-asset financial trading terminal featuring live candlestick charting, technical indicators, paper trading execution, market screener, and sector heatmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
